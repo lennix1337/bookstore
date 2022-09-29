@@ -1,24 +1,18 @@
-# README
+# Bookstore app (React with Ruby on Rails)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just a fun project to test out how Ruby on rails works
 
-Things you may want to cover:
+To install the project =>
+~~~
+bundle install
+cd bookstore-react
+npm install
+~~~
 
-* Ruby version
+Start the project with 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+~~~
+rails s
+cd /bookstore-react
+npm start
+~~~
